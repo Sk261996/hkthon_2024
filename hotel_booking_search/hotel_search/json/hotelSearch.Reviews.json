@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "66a9265fd2429837f79e89d9"
+  },
+  "hotelId": "66a924c1d2429837f79e89d2",
+  "guestName": "John Doe",
+  "rating": 4,
+  "review": "Great hotel, excellent service!"
+},
+{
+  "_id": {
+    "$oid": "66a92674d2429837f79e89da"
+  },
+  "hotelId": "66a92509d2429837f79e89d3",
+  "guestName": "Jane Smith",
+  "rating": 3,
+  "review": "Good hotel, but rooms are small."
+},
+{
+  "_id": {
+    "$oid": "66a92683d2429837f79e89db"
+  },
+  "hotelId": "66a92520d2429837f79e89d4",
+  "guestName": "Bob Johnson",
+  "rating": 5,
+  "review": "Amazing hotel, best experience ever!"
+}]

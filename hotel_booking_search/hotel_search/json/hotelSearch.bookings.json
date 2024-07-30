@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "66a925b8d2429837f79e89d5"
+  },
+  "hotelId": "66a924c1d2429837f79e89d2",
+  "guestName": "John Doe",
+  "arrivalDate": "2023-03-01T00:00:00.000Z",
+  "departureDate": "2023-03-03T00:00:00.000Z",
+  "roomType": "Single",
+  "price": 200,
+  "status": "Confirmed"
+},
+{
+  "_id": {
+    "$oid": "66a925ead2429837f79e89d6"
+  },
+  "hotelId": "66a92509d2429837f79e89d3",
+  "guestName": "Jane Smith",
+  "arrivalDate": "2023-04-01T00:00:00.000Z",
+  "departureDate": "2023-04-05T00:00:00.000Z",
+  "roomType": "Double",
+  "price": 150,
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "66a92601d2429837f79e89d7"
+  },
+  "hotelId": "66a92520d2429837f79e89d4",
+  "guestName": "Bob Johnson",
+  "arrivalDate": "2023-05-01T00:00:00.000Z",
+  "departureDate": "2023-05-04T00:00:00.000Z",
+  "roomType": "Suite",
+  "price": 300,
+  "status": "Cancelled"
+}]
